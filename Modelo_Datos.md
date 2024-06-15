@@ -123,8 +123,11 @@
 **Beneficiaries.json**
 \
 \[\{"firstName" : "Leo",
+\
   "LastName" : "Brune",
+  \
   benefitPercentage : 100.00,
+  \
   "relationToInsured" : "life insurance"
 }]
 \
